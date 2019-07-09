@@ -1,2 +1,1 @@
-# mobjs-project
-Mobjs final project
+# More to come...
